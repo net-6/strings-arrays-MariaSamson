@@ -1,0 +1,11 @@
+E:\curs .net\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.csprojAssemblyReference.cache
+E:\curs .net\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.AssemblyInfoInputs.cache
+E:\curs .net\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.AssemblyInfo.cs
+E:\curs .net\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.exe
+E:\curs .net\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.deps.json
+E:\curs .net\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.runtimeconfig.json
+E:\curs .net\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.runtimeconfig.dev.json
+E:\curs .net\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.dll
+E:\curs .net\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.pdb
+E:\curs .net\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.dll
+E:\curs .net\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.pdb
