@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Week3\\Week3.csproj": {}
+    "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Week3\\Week3.csproj": {
+    "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Week3\\Week3.csproj",
-        "projectName": "Week3",
-        "projectPath": "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Week3\\Week3.csproj",
+        "projectUniqueName": "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Arrays\\Arrays.csproj",
+        "projectName": "Arrays",
+        "projectPath": "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\Maria Andreea\\.nuget\\packages\\",
-        "outputPath": "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Week3\\obj\\",
+        "outputPath": "E:\\temaWeek3\\strings-arrays-MariaSamson\\Week3\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

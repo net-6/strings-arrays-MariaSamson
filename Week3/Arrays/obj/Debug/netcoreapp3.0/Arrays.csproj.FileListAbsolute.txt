@@ -1,0 +1,11 @@
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\bin\Debug\netcoreapp3.0\Arrays.exe
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\bin\Debug\netcoreapp3.0\Arrays.deps.json
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\bin\Debug\netcoreapp3.0\Arrays.runtimeconfig.json
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\bin\Debug\netcoreapp3.0\Arrays.runtimeconfig.dev.json
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\bin\Debug\netcoreapp3.0\Arrays.dll
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\bin\Debug\netcoreapp3.0\Arrays.pdb
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\obj\Debug\netcoreapp3.0\Arrays.csprojAssemblyReference.cache
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\obj\Debug\netcoreapp3.0\Arrays.AssemblyInfoInputs.cache
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\obj\Debug\netcoreapp3.0\Arrays.AssemblyInfo.cs
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\obj\Debug\netcoreapp3.0\Arrays.dll
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Arrays\obj\Debug\netcoreapp3.0\Arrays.pdb

@@ -9,3 +9,14 @@ E:\curs .net\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.dll
 E:\curs .net\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.pdb
 E:\curs .net\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.dll
 E:\curs .net\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.pdb
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.exe
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.deps.json
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.runtimeconfig.json
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.runtimeconfig.dev.json
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.dll
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\bin\Debug\netcoreapp3.0\Week3.pdb
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.csprojAssemblyReference.cache
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.AssemblyInfoInputs.cache
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.AssemblyInfo.cs
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.dll
+E:\temaWeek3\strings-arrays-MariaSamson\Week3\Week3\obj\Debug\netcoreapp3.0\Week3.pdb
