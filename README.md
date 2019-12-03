@@ -1,4 +1,4 @@
-# Week 3 Strings & Arrays homework
+﻿# Week 3 Strings & Arrays homework
 Homework for Week3 where we talked about manipulating strings &amp; arrays
 
 # Strings

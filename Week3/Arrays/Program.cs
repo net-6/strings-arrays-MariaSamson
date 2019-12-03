@@ -8,11 +8,18 @@ namespace Arrays
         static void Main(string[] args)
         {
             // ex1();
+            //ex2();
+            //ex3();
             // ex6();
+            //ex8();
             //ex9();
+
             // ex11();
             // ex12();
-            ex13();
+            //ex13();
+            
+            //ex15();\
+            // ex16();
 
 
         }
@@ -31,6 +38,28 @@ namespace Arrays
             }
         }*/
 
+        static void ex2()
+        {
+            int[] array = new int[] { 1, 2, 3, 4, 5 };
+            Array.Reverse(array);
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.WriteLine(array[i]);
+            }
+        }
+
+        static void ex3()
+        {
+            int[] arr = { 1, 2, 2, 2, 2, 3, 4, 7, 8, 8 };
+            int n = arr.Length;
+            int nr = 7;
+            int index = 0;
+
+            for (int i = 0; i < n; i++)
+                if (nr == arr[i])
+                    index++;
+            Console.WriteLine(index);
+        }
         /*static void ex6()
         {
             int[] array = new int[] { 1, 2, 3, 4, 5 };
@@ -42,6 +71,29 @@ namespace Arrays
             Console.WriteLine(sum);
         }*/
 
+      
+        static void ex8()
+        {
+            int[] myArray1 = new int[] { 4, 6, 1, 90, 2 };
+            int[] myArray2 = new int[] { 3, 5, 7, 98, 43};
+            int[] myArray3 = new int[10];
+            int i,n;
+            for ( i = 0; i < myArray1.Length; i++)
+            {
+                myArray3[i] = myArray1[i];
+            }
+            for (int j = 0; j < myArray2.Length; j++)
+            {
+                myArray3[i] = myArray2[j];
+                i++;
+            }
+            n = myArray1.Length + myArray2.Length;
+
+            for (int k = 0; k <n; k++)
+            {
+                Console.Write("{0} ", myArray3[k]);
+            }
+        }
         /* static void ex9()
         {
             int[] myArray = new int[] { 4,6,1,90,2 };
@@ -148,7 +200,98 @@ namespace Arrays
 
             Console.Write("The Second largest element in the array is :  {0} \n\n", secondMax);
         }
-    }
-}
+
+       
+
+        static void ex15()
+        {
+            int i, j;
+            int[,] matrix = new int[3, 3];
+            for (i = 0; i < 3; i++)
+            {
+                for (j = 0; j < 3; j++)
+                {
+                    Console.Write("element - [{0},{1}] : ", i, j);
+                    matrix[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            Console.Write("\nThe matrix is : \n");
+            for (i = 0; i < 3; i++)
+            {
+                Console.Write("\n");
+                for (j = 0; j < 3; j++)
+                    Console.Write("{0}\t", matrix[i, j]);
+            }
+            Console.Write("\n");
+        }
+
+
+
+        static void ex16()
+        {
+            int i, j;
+            int[,] matrix1 = new int[2, 2];
+            int[,] matrix2 = new int[2, 2];
+            int[,] sum = new int[2, 2];
+            //Matrix 1
+            for (i = 0; i < 2; i++)
+            {
+                for (j = 0; j < 2; j++)
+                {
+                    Console.Write("element - [{0},{1}] : ", i, j);
+                    matrix1[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            Console.Write("\nThe matrix is : \n");
+            for (i = 0; i < 2; i++)
+            {
+                Console.Write("\n");
+                for (j = 0; j < 2; j++)
+                    Console.Write("{0}\t", matrix1[i, j]);
+            }
+            Console.Write("\n");
+
+
+            //Matrix2
+            for (i = 0; i < 2; i++)
+            {
+                for (j = 0; j < 2; j++)
+                {
+                    Console.Write("element - [{0},{1}] : ", i, j);
+                    matrix2[i, j] = Convert.ToInt32(Console.ReadLine());
+                }
+            }
+            Console.Write("\nThe matrix is : \n");
+            for (i = 0; i < 2; i++)
+            {
+                Console.Write("\n");
+                for (j = 0; j < 2; j++)
+                    Console.Write("{0}\t", matrix2[i, j]);
+            }
+            Console.Write("\n");
+
+            //Sum
+            //Matrix2
+            for (i = 0; i < 2; i++)
+            {
+                for (j = 0; j < 2; j++)
+                {
+
+                    sum[i, j] = matrix1[i, j] + matrix2[i, j];
+                }
+            }
+            Console.Write("The Addition of two matrix is : \n");
+            for (i = 0; i < 2; i++)
+            {
+                Console.Write("\n");
+                for (j = 0; j < 2; j++)
+                    Console.Write("{0}\t", sum[i, j]);
+            }
+        }
+
+
+    } 
+  }
+
 
 
