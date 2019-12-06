@@ -1,18 +1,23 @@
 ﻿using System;
 using System.Text;
-
+                                              //STRINGS
 namespace Week3
 {
     class Program
     {
         static void Main(string[] args)
         {
-
+            //method1();
             //method2();
             //method3();
-            //method1();
-            method7();
+            //method4();
 
+            //method7();
+
+            //method9();
+
+            //method12();
+            method13();
         }
         // Write a method that to remove the nth index character from a nonempty string.
         /* static void method1()
@@ -88,29 +93,54 @@ namespace Week3
             }
             Console.WriteLine(myStringBuilder);
         }
+
+        static void method9()
+        {
+            string s = "hello";
+            StringBuilder sb = new StringBuilder(); 
+            for (int i = s.Length - 1; i >= 0; i--) 
+                sb.Append(s[i]);
+            Console.WriteLine(sb.ToString());
+        }
+
+        //Write a method that reverses a string if it's length is a multiple of 4
+        static void method4()
+        {
+            string s = "Good";
+            StringBuilder sb = new StringBuilder();
+            if ((s.Length) % 4 == 0)
+            { 
+            for (int i = s.Length - 1; i >= 0; i--)
+                sb.Append(s[i]);
+            }
+            Console.WriteLine(sb.ToString());
+        }
+
+        static void method12()
+        {
+            string text = "christmas";
+            int n = text.Length;
+            Console.WriteLine(char.ToUpper(text[0]) + text.Substring(1,n-2)+char.ToUpper(text[n-1]));
+        }
+
+        static void method13()
+        {
+            int n = 123;
+            int sum = 0;
+            while(n !=0)
+            {
+                sum = sum + n % 10;
+                n = n / 10;
+            }
+            Console.WriteLine(sum);
+        }
+      
+      
     }
+}
 
 
-    }
 
 
-//Write a method that reverses a string if it's length is a multiple of 4
-/* static void method4()
- {
-
-     string myString = Console.ReadLine();
-     char[] charArray = myString.ToCharArray();
-
-     Array.Reverse(charArray);
-
-     string newString = "";
-
-     foreach (char tempChar in charArray)
-     {
-         newString += tempChar;
-     }
-     Console.WriteLine(newString);
- }
- */
 
    
